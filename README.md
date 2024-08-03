@@ -1,3 +1,5 @@
+# Projeto de Análise de Dados: Tech Trends
+
 Objetivo: Identificar oportunidades para aumentar a eficiência das campanhas de marketing e melhorar a experiência de compra dos clientes.
 
 Dados Analisados:
