@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados: Tech Trends
+# Projeto de Análise de Dados: Empresa do ramo de marketing
 
 Objetivo: Identificar oportunidades para aumentar a eficiência das campanhas de marketing e melhorar a experiência de compra dos clientes.
 
